@@ -125,8 +125,8 @@ for i in range(0, 10):
 
 URL = 'https://openapi.naver.com/v1/search/shop.json' 
 headers = {
-  'X-Naver-Client-Id': X_NAVER_CLIENT_ID,
-  'X-Naver-Client-Secret' : X_NAVER_CLIENT_SECRET 
+  'X-Naver-Client-Id': EpYtw_n8X8qd5HGYcqQl,
+  'X-Naver-Client-Secret' : LyRWcbXcjL 
 }
 
 
